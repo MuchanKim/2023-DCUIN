@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  overscroll-behavior: none;
+  background-color: #f6f6f6;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 600px;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  background-color: white;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(100, 100, 100, 0.3) 0px 7px 29px 0px;
+} 

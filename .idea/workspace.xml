@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1355f72b-223e-494e-ade5-468b222e9525" name="Changes" comment="imagebutton.js수정사항 : Imagebutton.css 에서 imagebutton.css로 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyeseung/frontend/src/page/Search2.js" beforeDir="false" afterPath="$PROJECT_DIR$/hyeseung/frontend/src/page/Search2.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NJ8fwldKOHvSCyGoioeGYp4x1k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Download Shared Index&quot;: &quot;Shared indexes available&quot;,
+    &quot;Notification.DoNotAsk-Download Shared Index&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/PycharmProjects/Searching&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.django.DjangoModulesConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/database" />
+      <recent name="$PROJECT_DIR$/frontend/src/page" />
+      <recent name="$PROJECT_DIR$/Seungmin/Searching/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="crawling" type="PythonConfigurationType" factoryName="Python">
+      <module name="Searching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Muchan" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Muchan/crawling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="Searching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seungmin/Searching" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seungmin/Searching/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Searching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seungmin/Searching/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="capstone" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Searching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.capstone" />
+      <item itemvalue="Python.crawling" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1355f72b-223e-494e-ade5-468b222e9525" name="Changes" comment="" />
+      <created>1679370932197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679370932197</updated>
+      <workItem from="1679370937208" duration="5548000" />
+      <workItem from="1679381388264" duration="2223000" />
+      <workItem from="1679537294299" duration="1493000" />
+      <workItem from="1679546814264" duration="1468000" />
+      <workItem from="1679558401367" duration="22000" />
+      <workItem from="1679559372647" duration="4459000" />
+      <workItem from="1679899569426" duration="434000" />
+      <workItem from="1679983577898" duration="2144000" />
+      <workItem from="1679985828044" duration="937000" />
+      <workItem from="1680066573314" duration="133000" />
+      <workItem from="1680068212954" duration="1204000" />
+      <workItem from="1680069437048" duration="2090000" />
+      <workItem from="1680071693404" duration="54000" />
+      <workItem from="1680071771758" duration="663000" />
+      <workItem from="1680581417154" duration="843000" />
+      <workItem from="1680582532784" duration="421000" />
+      <workItem from="1680583409872" duration="1297000" />
+      <workItem from="1680587902373" duration="407000" />
+      <workItem from="1680957687294" duration="3316000" />
+      <workItem from="1681051108512" duration="58000" />
+      <workItem from="1681051699347" duration="178000" />
+      <workItem from="1681648628742" duration="517000" />
+      <workItem from="1681650711063" duration="21000" />
+      <workItem from="1681794309559" duration="548000" />
+      <workItem from="1681986633770" duration="745000" />
+      <workItem from="1682006824167" duration="609000" />
+      <workItem from="1682009245190" duration="51000" />
+      <workItem from="1682009306543" duration="788000" />
+      <workItem from="1683690719796" duration="3976000" />
+      <workItem from="1685097867229" duration="9129000" />
+      <workItem from="1685435398902" duration="3754000" />
+      <workItem from="1685579548961" duration="4608000" />
+      <workItem from="1685923647025" duration="351000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change All&#10;&#10;main.py&#10;Room 테이블 내 검색시 출력되는 문구, 형식 변경&#10;검색어 못찾았을 경우 출력되는 문구 변경&#10;띄어쓰기와 하이픈을 기준으로 split되게 변경&#10;&#10;test.py&#10;계속 수정하면서 테스트하는 파일">
+      <created>1680068833329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680068833329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1680071365086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680071365086</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete">
+      <created>1680583474325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680583474325</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add json file">
+      <created>1680584868308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680584868308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add .idea file">
+      <created>1680584984452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680584984452</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Search main.py 수정&#10;검색결과 없을시 각 테이블 별로 출력되는 문구 수정.">
+      <created>1680960857597</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680960857597</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".">
+      <created>1682009835259</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682009835259</updated>
+    </task>
+    <task id="LOCAL-00008" summary="backend/Search/urls.py url패턴 수정&#10;backend/Search/views.py search함수 추가&#10;Seungmin/Searching/main.py Database pw 수정">
+      <created>1683699024546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683699024546</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5/30 회의 후 push">
+      <created>1685439132968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685439132969</updated>
+    </task>
+    <task id="LOCAL-00010" summary="imagebutton.js수정사항 : Imagebutton.css 에서 imagebutton.css로 수정">
+      <created>1685880866557</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685880866557</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3cfc9e9f-f2d8-459f-8561-f5978dedb8e7">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4ad3c13e-5fa9-406a-b7e0-5fc2f83eaab4">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/user/PycharmProjects/Searching/Seungmin/DB" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="d3c7625e-6c3b-4cfb-8965-b21bd6927d68">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change All&#10;&#10;main.py&#10;Room 테이블 내 검색시 출력되는 문구, 형식 변경&#10;검색어 못찾았을 경우 출력되는 문구 변경&#10;띄어쓰기와 하이픈을 기준으로 split되게 변경&#10;&#10;test.py&#10;계속 수정하면서 테스트하는 파일" />
+    <MESSAGE value="test" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="add json file" />
+    <MESSAGE value="add .idea file" />
+    <MESSAGE value="Search main.py 수정&#10;검색결과 없을시 각 테이블 별로 출력되는 문구 수정." />
+    <MESSAGE value="." />
+    <MESSAGE value="backend/Search/urls.py url패턴 수정&#10;backend/Search/views.py search함수 추가&#10;Seungmin/Searching/main.py Database pw 수정" />
+    <MESSAGE value="Seungmin/Searching/main.py 문장출력에서 배열출력으로 수정" />
+    <MESSAGE value="5/30 회의 후 push" />
+    <MESSAGE value="imagebutton.js수정사항 : Imagebutton.css 에서 imagebutton.css로 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="imagebutton.js수정사항 : Imagebutton.css 에서 imagebutton.css로 수정" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Searching$test.coverage" NAME="test Coverage Results" MODIFIED="1679985858678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Searching$crawling.coverage" NAME="crawling Coverage Results" MODIFIED="1683690835823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Muchan" />
+    <SUITE FILE_PATH="coverage/Searching$main.coverage" NAME="main Coverage Results" MODIFIED="1685582188153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seungmin/Searching" />
+  </component>
+</project>

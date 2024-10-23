@@ -1,0 +1,20 @@
+[
+	{
+		"Ssn" : 87654321,
+		"Name" : "홍길동",
+		"Email" : "aaa@cu.ac.kr",
+		"PhoneNum" : "01011112222",
+		"ProfOfficeBuildingNum" : "D2",
+		"ProfOfficeRoomNum" : "521",
+		"DepartmentNum" : 109
+	},
+	{
+		"Ssn" : 12345678,
+		"Name" : "전수빈",
+		"Email" : "abc@cu.ac.kr",
+		"PhoneNum" : "01012341234",
+		"ProfOfficeBuildingNum" : "D2",
+		"ProfOfficeRoomNum" : "520",
+		"DepartmentNum" : 10314
+	}
+]

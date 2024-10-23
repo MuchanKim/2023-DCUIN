@@ -1,0 +1,109 @@
+.container {
+  height: 100vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.head {
+  position: fixed;
+  top: 0;
+  display: flex;
+  height: 80px;
+  width: 100%;
+  max-width: 600px;
+  z-index: 1;
+  justify-content: space-between;
+
+  background: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+}
+
+.time {
+  margin: 20px;
+  width: 10%;
+  font-size: 15px;
+  color: white;
+}
+
+.notice {
+  margin: 20px;
+  width: 90%;
+  height: 5vh;
+  margin-right: 10px;
+  background-color: white;
+  border-radius: 7px;
+  border: none;
+  outline: none;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 2%;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  max-width: 600px;
+  z-index: 1;
+  margin-right: 30px;
+}
+
+.busbtn {
+  width: 80px;
+  height: 80px;
+  background-color: transparent;
+  border: 1px solid transparent;
+}
+
+.busbtn img{
+  width: 80% !important;
+  height: 80% !important;
+}
+
+.searchbtn {
+  width: 80px;
+  height: 80px;
+  background-color: transparent;
+  border: 1px solid transparent;
+}
+
+.searchbtn img{
+  width: 80px !important;
+  height: 80px !important;
+}
+
+
+#map {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  pointer-events: auto;
+}
+
+#map img {
+  height: 100%;
+  width: auto;
+}
+
+.D16 {
+  position: absolute;
+  background-color: transparent;
+  border: 1px solid transparent;
+  background: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  pointer-events: auto;
+
+  top: 47%;
+  left: 23.5%;
+  
+  width: 2% !important;
+  height: 4% !important;
+}

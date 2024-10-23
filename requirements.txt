@@ -1,0 +1,4 @@
+-r requirements/prod.txt
+
+
+/* backend > settings > common.py(=settings.py)*/

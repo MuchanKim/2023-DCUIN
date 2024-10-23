@@ -1,0 +1,84 @@
+.buildingbtn {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid transparent;
+  background: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.buildingbtn img {
+  width: 60% !important;
+  height: 85% !important;
+}
+
+.bottombtn {
+  background: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.bottombtn img {
+  width: 90px !important;
+  height: 90px !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.D2 {
+  top: 17%;
+  left: 9%;
+}
+
+.A8 {
+  top: 22%;
+  left: 34%;
+}
+
+.A2 {
+  top: 31%;
+  left: 34%;
+}
+
+.A6 {
+  top: 23%;
+  left: 42.5%;
+}
+
+
+.busstop1 {
+  top: 36%;
+  left: 31.5%;
+}
+
+.busstop2 {
+  top: 40.5%;
+  left: 58%;
+}
+
+.busstop3 {
+  top: 29.5%;
+  left: 63%;
+}
+
+.busstop4 {
+  top: 18%;
+  left: 45%;
+}
+
+.busstop5 {
+  top: 22%;
+  left: 22%;
+}
+
+.busstop6 {
+  bottom: 21%;
+  right: 23%;
+}
